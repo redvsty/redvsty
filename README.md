@@ -36,7 +36,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/redvsty/redvsty/blob/main/assets/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
