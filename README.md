@@ -40,7 +40,7 @@
 <img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
 </br>
 <img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/aws.png" alt="amazon_web_service" width="120" hight="50">
+<img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/aws.png" alt="amazon_web_service" width="110" hight="50">
 </br>
 <img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/edge.png" alt="edge" width="100" hight="50">
