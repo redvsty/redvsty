@@ -72,7 +72,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
+<a href="https://web.telegram.org/k/#1194491579">
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/redvsty/redvsty/blob/main/assets/icons/telegram.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198182224539/">
