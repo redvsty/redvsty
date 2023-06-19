@@ -22,7 +22,7 @@
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
+- ✨ Manhua and Manwha Readrer
 
 </br>
 </br>
