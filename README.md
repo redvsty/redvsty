@@ -20,7 +20,6 @@
 - ✨ Cloud Computing
 
 ### - Hobbies : 
-- ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Manhua and Manwha Readrer
 
