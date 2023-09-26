@@ -21,7 +21,7 @@
 
 ### - Hobbies : 
 - ✨ Watching Anime
-- ✨ Manhua and Manwha Readrer
+- ✨ Manhua and Manwha Reader
 
 </br>
 </br>
