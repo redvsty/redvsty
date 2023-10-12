@@ -36,14 +36,3 @@
 </br>
 </br>
 </br>
-
-
-
-<a href="https://github.com/redvsty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=redvsty&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/redvsty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redvsty&layout=compact&theme=chartreuse-dark&langs_count=8" />
-</a>
-
-
