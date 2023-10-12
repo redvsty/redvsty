@@ -13,20 +13,8 @@
 
 ### - I'm 21 years old DevOps Engineer Enthusiast from Indonesia.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/redvsty/redvsty/blob/main/assets/deku.gif">
-
-### - Learning :
-- ✨ Docker & Kubernetes
-- ✨ Cloud Computing
-
-### - Hobbies : 
-- ✨ Watching Anime
-- ✨ Manhua and Manwha Reader
-
-</br>
-</br>
-</br>
-
+[![@redvsty's Holopin board](https://holopin.me/redvsty)](https://holopin.io/@redvsty)
+[![GitHub Streak](https://streak-stats.demolab.com?user=redvsty&theme=dark&card_width=1030)](https://git.io/streak-stats)
 
 
 # Languages & Tools 👨‍💻 🛠:
