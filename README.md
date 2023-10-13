@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 21 years old DevOps Engineer Enthusiast from Indonesia.
+### - I'm 21 years old DevOps Engineer from Indonesia.
 
 [![@redvsty's Holopin board](https://holopin.me/redvsty)](https://holopin.io/@redvsty)
 [![GitHub Streak](https://streak-stats.demolab.com?user=redvsty&theme=dark&card_width=1030)](https://git.io/streak-stats)
