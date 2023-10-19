@@ -29,9 +29,6 @@
 <img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/aws.png" alt="amazon_web_service" width="110" hight="50">
 </br>
-<img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-<img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/redvsty/redvsty/blob/main/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
 </br>
 </br>
